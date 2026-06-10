@@ -262,6 +262,6 @@ Commands are stored as `unique_ptr<Command>` — memory is automatically managed
 
 ## 👨‍💻 Author
 
-**Muhammad Junaid Saleem**
+**Muhammad Junaid Saleem, **
 **Muhammad Saim Imran**
 BSc Computer Engineering – 2025
