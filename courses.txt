@@ -1,0 +1,16 @@
+# Courses Data
+# Format: SEMESTER|CODE|NAME|TH_CREDITS|LAB_CREDITS|TEACHER
+
+SEM1|CALC1|Calculus 1|3|0|Dr. Tariq Mehmood
+SEM1|PF|Programming Fundamentals|3|1|Mr. Asad Ullah Khan
+SEM1|AICT|Applied ICT|3|1|Ms. Sana Rehman
+SEM1|FQ|Fehme Quran|1|0|Maulana Bilal Ahmed
+SEM1|AP|Applied Physics|2|1|Dr. Imran Hussain
+
+SEM2|OOPS|Object Oriented Programming|3|1|Mr. Kamran Malik
+SEM2|DLD|Digital Logic Design|2|1|Dr. Faisal Nawaz
+SEM2|DBMS|Database Management Systems|3|1|Ms. Ayesha Tariq
+SEM2|ASP|Applied Stochastic Processes|3|0|Dr. Usman Ghani
+SEM2|CS|Communication Skills|3|0|Ms. Rabia Khalid
+SEM2|CALC2|Calculus 2|3|0|Dr. Tariq Mehmood
+
